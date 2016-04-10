@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[eqsphotography]]></title>
+        <description><![CDATA[eqsphotography]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 10 Apr 2016 04:13:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Corporate Portraiture]]></title>
+            <description><![CDATA[<article><h1>Corporate Portraiture</h1><p>Headshots </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/04583e77c0821ed4f79a972927e539479ca8a63d.jpg"></article>]]></description>
+            <link>undefinedcorporate-portraiture/index.html</link>
+            <guid isPermaLink="false">f089c96a-58b9-47eb-a61d-0cf7622fd078</guid>
+            <pubDate>Sun, 10 Apr 2016 04:13:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
