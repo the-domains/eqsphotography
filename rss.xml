@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[eqsphotography]]></title>
         <description><![CDATA[eqsphotography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/eqsphotography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 04:13:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Aug 2016 02:58:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/eqsphotography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Corporate Portraiture]]></title>
-            <description><![CDATA[<article><h1>Corporate Portraiture</h1><p>Headshots </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/04583e77c0821ed4f79a972927e539479ca8a63d.jpg"></article>]]></description>
-            <link>undefinedcorporate-portraiture/index.html</link>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/04583e77c0821ed4f79a972927e539479ca8a63d.jpg">]]></description>
+            <link>https://thegrid.ai/eqsphotography/corporate-portraiture/index.html</link>
             <guid isPermaLink="false">f089c96a-58b9-47eb-a61d-0cf7622fd078</guid>
-            <pubDate>Sun, 10 Apr 2016 04:13:50 GMT</pubDate>
+            <pubDate>Thu, 18 Aug 2016 02:58:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
